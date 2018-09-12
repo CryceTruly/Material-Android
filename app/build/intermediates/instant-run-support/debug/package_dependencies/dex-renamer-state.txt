@@ -1,0 +1,4 @@
+#Tue Sep 04 15:01:03 EAT 2018
+base.0=/home/ava/Desktop/MaterialX/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
