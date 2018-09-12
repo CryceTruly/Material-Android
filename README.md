@@ -1,2 +1,2 @@
 # Material-Android
-# #Toolkit for prototyping android uis
+Toolkit for prototyping android uis
