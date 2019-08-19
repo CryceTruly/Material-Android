@@ -99,6 +99,7 @@ output.json
 
 # BlueJ files
 *.ctxt
+.idea/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -167,6 +168,9 @@ hs_err_pid*
 
 # NDK
 obj/
+
+build/*
+app/build
 
 # IntelliJ IDEA
 *.iws
