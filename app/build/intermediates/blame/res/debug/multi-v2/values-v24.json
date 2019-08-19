@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ava/Desktop/MaterialX/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/crycetruly/AndroidStudioProjects/Material-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/1b01eaa1eebb54a9298b07bbee33def8/res/values-v24/values-v24.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/607d56d0a707888c05fdf942c736bc21/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a34186ada46521e740101c6061ee276a/res/values-v24/values-v24.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/522d3145599382eb75872faf4af28ea1/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

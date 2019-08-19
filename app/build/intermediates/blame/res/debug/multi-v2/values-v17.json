@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ava/Desktop/MaterialX/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/Users/crycetruly/AndroidStudioProjects/Material-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a34186ada46521e740101c6061ee276a/res/values-v17/values-v17.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/522d3145599382eb75872faf4af28ea1/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

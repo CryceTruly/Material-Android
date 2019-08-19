@@ -1,61 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ava/Desktop/MaterialX/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "outputFile": "/Users/crycetruly/AndroidStudioProjects/Material-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/36b5b77cab9037ece9b1ff2c0a0193d5/res/values-ar/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "188",
-                        "endOffsets": "471"
-                    },
-                    "to": {
-                        "startLines": "27",
-                        "startColumns": "4",
-                        "startOffsets": "2949",
-                        "endColumns": "188",
-                        "endOffsets": "3133"
-                    }
-                },
-                {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/ee639f9e94984499ce3e27a88eac3d03/res/values-ar/values-ar.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,166,232,345,456,533,649,768,886,979,1069,1161,1248",
-                        "endColumns": "60,65,112,110,76,115,118,117,92,89,91,86,100",
-                        "endOffsets": "161,227,340,451,528,644,763,881,974,1064,1156,1243,1344"
-                    },
-                    "to": {
-                        "startLines": "37,38,39,40,41,42,43,44,45,46,47,48,49",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4422,4483,4549,4662,4773,4850,4966,5085,5203,5296,5386,5478,5565",
-                        "endColumns": "60,65,112,110,76,115,118,117,92,89,91,86,100",
-                        "endOffsets": "4478,4544,4657,4768,4845,4961,5080,5198,5291,5381,5473,5560,5661"
-                    }
-                },
-                {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/a277a868046a78c097cd98cb59b9b421/res/values-ar/values.xml",
-                    "from": {
-                        "startLines": "4,5",
-                        "startColumns": "0,0",
-                        "startOffsets": "231,327",
-                        "endColumns": "95,90",
-                        "endOffsets": "326,417"
-                    },
-                    "to": {
-                        "startLines": "50,51",
-                        "startColumns": "4,4",
-                        "startOffsets": "5666,5766",
-                        "endColumns": "99,94",
-                        "endOffsets": "5761,5856"
-                    }
-                },
-                {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a34186ada46521e740101c6061ee276a/res/values-ar/values-ar.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/522d3145599382eb75872faf4af28ea1/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -72,7 +21,41 @@
                     }
                 },
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a84b825c58f94f562f16f10d4c33b190/res/values-ar/values-ar.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/69b42e3a773099eaf0ba12469d1d3dac/res/values-ar/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "188",
+                        "endOffsets": "471"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "2949",
+                        "endColumns": "188",
+                        "endOffsets": "3133"
+                    }
+                },
+                {
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/0791a995c705ff7f89f3da2c5e45fa00/res/values-ar/values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "231,327",
+                        "endColumns": "95,90",
+                        "endOffsets": "326,417"
+                    },
+                    "to": {
+                        "startLines": "50,51",
+                        "startColumns": "4,4",
+                        "startOffsets": "5666,5766",
+                        "endColumns": "99,94",
+                        "endOffsets": "5761,5856"
+                    }
+                },
+                {
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c17e5f21cdd14984ff72456e4de236ed/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -89,7 +72,24 @@
                     }
                 },
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c2ae9ed088d26bad7d53a18faca40326/res/values-ar/values.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/dd44ad83ed823670e30686b778c78388/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,166,232,345,456,533,649,768,886,979,1069,1161,1248",
+                        "endColumns": "60,65,112,110,76,115,118,117,92,89,91,86,100",
+                        "endOffsets": "161,227,340,451,528,644,763,881,974,1064,1156,1243,1344"
+                    },
+                    "to": {
+                        "startLines": "37,38,39,40,41,42,43,44,45,46,47,48,49",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4422,4483,4549,4662,4773,4850,4966,5085,5203,5296,5386,5478,5565",
+                        "endColumns": "60,65,112,110,76,115,118,117,92,89,91,86,100",
+                        "endOffsets": "4478,4544,4657,4768,4845,4961,5080,5198,5291,5381,5473,5560,5661"
+                    }
+                },
+                {
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/bd6e2d981499b80faf1ff009741e3d2f/res/values-ar/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

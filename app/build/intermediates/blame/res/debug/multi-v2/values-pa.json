@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ava/Desktop/MaterialX/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "outputFile": "/Users/crycetruly/AndroidStudioProjects/Material-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a84b825c58f94f562f16f10d4c33b190/res/values-pa/values-pa.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "40",
-                        "startColumns": "4",
-                        "startOffsets": "4854",
-                        "endColumns": "100",
-                        "endOffsets": "4950"
-                    }
-                },
-                {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a34186ada46521e740101c6061ee276a/res/values-pa/values-pa.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/522d3145599382eb75872faf4af28ea1/res/values-pa/values-pa.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c2ae9ed088d26bad7d53a18faca40326/res/values-pa/values.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/bd6e2d981499b80faf1ff009741e3d2f/res/values-pa/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/a277a868046a78c097cd98cb59b9b421/res/values-pa/values.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/0791a995c705ff7f89f3da2c5e45fa00/res/values-pa/values.xml",
                     "from": {
                         "startLines": "4,5",
                         "startColumns": "0,0",
@@ -72,7 +55,24 @@
                     }
                 },
                 {
-                    "source": "/home/ava/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/36b5b77cab9037ece9b1ff2c0a0193d5/res/values-pa/values.xml",
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c17e5f21cdd14984ff72456e4de236ed/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "4854",
+                        "endColumns": "100",
+                        "endOffsets": "4950"
+                    }
+                },
+                {
+                    "source": "/Users/crycetruly/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/69b42e3a773099eaf0ba12469d1d3dac/res/values-pa/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
